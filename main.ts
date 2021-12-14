@@ -1,5 +1,12 @@
+controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
+    princess.stopDart()
+})
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+    princess.throwDart()
+})
+let princess: Dart = null
 scene.setBackgroundColor(3)
-let princess = darts.create(img`
+princess = darts.create(img`
     . . . . . . f f f f 4 4 f . . . 
     . . . . f f b f 5 4 5 5 4 f . . 
     . . . f b 3 3 e 4 5 5 5 5 f . . 
