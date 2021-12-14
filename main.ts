@@ -1,4 +1,3 @@
-let mySprite: Sprite = null
 scene.setBackgroundColor(3)
 let princess = darts.create(img`
     . . . . . . . . . . . . . . . . 
@@ -18,4 +17,3 @@ let princess = darts.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
-mySprite.setVelocity(50, 50)

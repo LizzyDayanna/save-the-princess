@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"8PQ0AMk-Lk+,-9jpi)Ui"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="CDvk%Ww6b5Q]rnaB~]rd"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesetvel" id="2#/)C2%!k9tCdGWk2-MK"><value name="sprite"><block type="variables_get" id="@r+|SG:Y5q.XVT]T.yqH"><field name="VAR" id="mWp^D;7I(])lwAv!l{Yj">mySprite</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="B4Y?Q3z;e[HRWv@P-Sb-"><field name="speed">50</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id="Ob$a7Sd[Rha.Re8Et.S5"><field name="speed">50</field></shadow></value></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"8PQ0AMk-Lk+,-9jpi)Ui"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="CDvk%Ww6b5Q]rnaB~]rd"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
